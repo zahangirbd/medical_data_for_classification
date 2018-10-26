@@ -1,4 +1,4 @@
-# medical_data_for_classification
+# Medical datasets for classification
 It contains some medical datasets collected from UCI Repository and formatted as needed. There are two sets of data in each directory, i.e., training and testing datasets.
  
 ## Directory description
