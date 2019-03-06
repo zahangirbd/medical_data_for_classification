@@ -6,5 +6,13 @@ Each directory name itself is the name of medical dataset. They are available in
 1. Breast Cancer Wisconsin
 2. Bupa   
 3. Diabetes
-4. Hepatitis
-5. Statlog (Heart)
+4. HCC
+5. Hepatitis
+6. Parkinsons (LPD)
+7. Planning Relax
+8. SaHeart
+9. SPECTF Heart
+10. Statlog (Heart)
+
+## URL
+https://github.com/zahangirbd/medical_data_for_classification
